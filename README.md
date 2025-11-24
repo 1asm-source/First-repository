@@ -1,2 +1,2 @@
 # First-repository
-Getting started 
+Getting started smoothly
